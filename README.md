@@ -14,34 +14,34 @@
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseEElectronicVehicles.gif)
 
 
-### GUI with clusters found of Rugby Teams Data
-##### Use Case A for Rugby Data:
+### GUI with clusters found of Rugby Teams' Data
+##### Use Case A for Rugby Team:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseARugbyTeams.gif)
-##### Use Case B for Rugby Data:
+##### Use Case B for Rugby Team:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseBRugbyTeams.gif)
-##### Use Case C for Rugby Data:
+##### Use Case C for Rugby Team:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseCRugbyTeams.gif)
 
-### GUI with clusters found of Rugby Players Data
-##### Use Case D for Rugby Data:
+### GUI with clusters found of Rugby Players' Data
+##### Use Case A for Rugby Player:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseARugbyPlayers.gif)
-##### Use Case E for Rugby Data:
+##### Use Case B for Rugby Player:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseBRugbyPlayers.gif)
 
 
-### GUI with clusters found of Football Teams Data
-##### Use Case A for Football Data:
+### GUI with clusters found of Football Teams' Data
+##### Use Case A for Football Team:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseAFootballTeams.gif)
-##### Use Case B for Football Data:
+##### Use Case B for Football Team:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseBFootballTeams.gif)
 
 
-### GUI with clusters found of Football Players Data
-##### Use Case C for Football Data:
+### GUI with clusters found of Football Players' Data
+##### Use Case C for Football Player:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseAFootballPlayers.gif)
-##### Use Case D for Football Data:
+##### Use Case D for Football Player:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseBFootballPlayers.gif)
-##### Use Case E for Football Data:
+##### Use Case E for Football Player:
 ![grab-landing-page](https://github.com/ColmCleryCS/HierarchicalClustering/blob/main/imgs/UseCaseCFootballPlayers.gif)
 
 
